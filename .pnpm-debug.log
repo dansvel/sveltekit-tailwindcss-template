@@ -1,0 +1,180 @@
+{
+  "0 debug pnpm:scope": {
+    "selected": 1
+  },
+  "1 debug pnpm:package-manifest": {
+    "initial": {
+      "name": "~TODO~",
+      "version": "0.0.1",
+      "scripts": {
+        "dev": "svelte-kit dev",
+        "build": "svelte-kit build",
+        "preview": "svelte-kit preview"
+      },
+      "devDependencies": {
+        "@sveltejs/kit": "next",
+        "autoprefixer": "^10.2.6",
+        "svelte": "^3.34.0",
+        "svelte-preprocess": "^4.7.3"
+      },
+      "type": "module",
+      "dependencies": {
+        "@fontsource/fira-code": "^4.4.1",
+        "@fontsource/fira-sans": "^4.4.0"
+      }
+    },
+    "prefix": "C:\\Users\\hp\\www\\dan.my.id"
+  },
+  "2 debug pnpm:context": {
+    "currentLockfileExists": false,
+    "storeDir": "C:\\Users\\hp\\.pnpm-store\\v3",
+    "virtualStoreDir": "C:\\Users\\hp\\www\\dan.my.id\\node_modules\\.pnpm"
+  },
+  "3 debug pnpm:stage": {
+    "prefix": "C:\\Users\\hp\\www\\dan.my.id",
+    "stage": "resolution_started"
+  },
+  "4 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/@fontsource/fira-code/4.4.1",
+    "wanted": {
+      "dependentId": ".",
+      "name": "@fontsource/fira-code",
+      "rawSpec": "^4.4.1"
+    }
+  },
+  "5 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/@fontsource/fira-code/4.4.1",
+    "requester": "C:\\Users\\hp\\www\\dan.my.id",
+    "status": "resolved"
+  },
+  "6 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/@fontsource/fira-sans/4.4.0",
+    "wanted": {
+      "dependentId": ".",
+      "name": "@fontsource/fira-sans",
+      "rawSpec": "^4.4.0"
+    }
+  },
+  "7 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/@fontsource/fira-sans/4.4.0",
+    "requester": "C:\\Users\\hp\\www\\dan.my.id",
+    "status": "resolved"
+  },
+  "8 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/@fontsource/fira-code/4.4.1",
+    "requester": "C:\\Users\\hp\\www\\dan.my.id",
+    "status": "found_in_store"
+  },
+  "9 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/@fontsource/fira-sans/4.4.0",
+    "requester": "C:\\Users\\hp\\www\\dan.my.id",
+    "status": "found_in_store"
+  },
+  "10 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/svelte-windicss-preprocess/4.0.7",
+    "wanted": {
+      "dependentId": ".",
+      "name": "svelte-windicss-preprocess",
+      "rawSpec": "latest"
+    }
+  },
+  "11 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/svelte-windicss-preprocess/4.0.7",
+    "requester": "C:\\Users\\hp\\www\\dan.my.id",
+    "status": "resolved"
+  },
+  "12 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/svelte-windicss-preprocess/4.0.7",
+    "requester": "C:\\Users\\hp\\www\\dan.my.id",
+    "status": "found_in_store"
+  },
+  "13 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/windicss/3.0.12",
+    "wanted": {
+      "dependentId": ".",
+      "name": "windicss",
+      "rawSpec": "latest"
+    }
+  },
+  "14 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/windicss/3.0.12",
+    "requester": "C:\\Users\\hp\\www\\dan.my.id",
+    "status": "resolved"
+  },
+  "15 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/windicss/3.0.12",
+    "requester": "C:\\Users\\hp\\www\\dan.my.id",
+    "status": "found_in_store"
+  },
+  "16 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/autoprefixer/10.2.6",
+    "wanted": {
+      "dependentId": ".",
+      "name": "autoprefixer",
+      "rawSpec": "^10.2.6"
+    }
+  },
+  "17 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/autoprefixer/10.2.6",
+    "requester": "C:\\Users\\hp\\www\\dan.my.id",
+    "status": "resolved"
+  },
+  "18 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/autoprefixer/10.2.6",
+    "requester": "C:\\Users\\hp\\www\\dan.my.id",
+    "status": "found_in_store"
+  },
+  "19 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/@sveltejs/kit/1.0.0-next.111",
+    "wanted": {
+      "dependentId": ".",
+      "name": "@sveltejs/kit",
+      "rawSpec": "next"
+    }
+  },
+  "20 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/@sveltejs/kit/1.0.0-next.111",
+    "requester": "C:\\Users\\hp\\www\\dan.my.id",
+    "status": "resolved"
+  },
+  "21 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/@sveltejs/kit/1.0.0-next.111",
+    "requester": "C:\\Users\\hp\\www\\dan.my.id",
+    "status": "found_in_store"
+  },
+  "22 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/svelte-preprocess/4.7.3",
+    "wanted": {
+      "dependentId": ".",
+      "name": "svelte-preprocess",
+      "rawSpec": "^4.7.3"
+    }
+  },
+  "23 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/svelte-preprocess/4.7.3",
+    "requester": "C:\\Users\\hp\\www\\dan.my.id",
+    "status": "resolved"
+  },
+  "24 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/svelte-preprocess/4.7.3",
+    "requester": "C:\\Users\\hp\\www\\dan.my.id",
+    "status": "found_in_store"
+  },
+  "25 error pnpm": {
+    "shortMessage": "Command failed with exit code 128: git ls-remote --refs git+ssh://git@github.com/windicss/helpers.git master",
+    "command": "git ls-remote --refs git+ssh://git@github.com/windicss/helpers.git master",
+    "exitCode": 128,
+    "stdout": "",
+    "stderr": "git@github.com: Permission denied (publickey).\r\nfatal: Could not read from remote repository.\n\nPlease make sure you have the correct access rights\nand the repository exists.",
+    "failed": true,
+    "timedOut": false,
+    "isCanceled": false,
+    "killed": false,
+    "pkgsStack": [],
+    "err": {
+      "name": "Error",
+      "message": "Command failed with exit code 128: git ls-remote --refs git+ssh://git@github.com/windicss/helpers.git master\ngit@github.com: Permission denied (publickey).\r\nfatal: Could not read from remote repository.\n\nPlease make sure you have the correct access rights\nand the repository exists.",
+      "stack": "Error: Command failed with exit code 128: git ls-remote --refs git+ssh://git@github.com/windicss/helpers.git master\ngit@github.com: Permission denied (publickey).\r\nfatal: Could not read from remote repository.\n\nPlease make sure you have the correct access rights\nand the repository exists.\n    at makeError (C:\\Users\\hp\\scoop\\persist\\nodejs-lts\\bin\\node_modules\\pnpm\\dist\\pnpm.cjs:52618:17)\n    at handlePromise (C:\\Users\\hp\\scoop\\persist\\nodejs-lts\\bin\\node_modules\\pnpm\\dist\\pnpm.cjs:53167:33)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async getRepoRefs (C:\\Users\\hp\\scoop\\persist\\nodejs-lts\\bin\\node_modules\\pnpm\\dist\\pnpm.cjs:61471:22)\n    at async resolveRef (C:\\Users\\hp\\scoop\\persist\\nodejs-lts\\bin\\node_modules\\pnpm\\dist\\pnpm.cjs:61485:20)\n    at async resolveGit (C:\\Users\\hp\\scoop\\persist\\nodejs-lts\\bin\\node_modules\\pnpm\\dist\\pnpm.cjs:61437:24)\n    at async Object.resolve (C:\\Users\\hp\\scoop\\persist\\nodejs-lts\\bin\\node_modules\\pnpm\\dist\\pnpm.cjs:64815:236)\n    at async run (C:\\Users\\hp\\scoop\\persist\\nodejs-lts\\bin\\node_modules\\pnpm\\dist\\pnpm.cjs:87926:23)"
+    }
+  }
+}
