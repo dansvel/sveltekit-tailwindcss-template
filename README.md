@@ -1,4 +1,4 @@
-# just my sveltekit tailwindcss boilerplate for my project
+# my sveltekit tailwindcss boilerplate for my project (without typescript)
 
 I might add some feature in far future, but for now this is enough for my project
 
